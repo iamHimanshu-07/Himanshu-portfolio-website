@@ -38,7 +38,7 @@ const projects = [
     description:
       "An end-to-end NLP project for multi-label mental-health emotion detection from free-form text. Uses TF-IDF + OneVsRest RandomForest on the DepressionEmo dataset, served through an interactive Streamlit dashboard with per-emotion probability charts.",
     tags: ["Python", "NLP", "Scikit-Learn", "Streamlit", "TF-IDF", "RandomForest"],
-    github: "https://github.com/iamHimanshu-07/MindPulse.AI",
+    github: "https://github.com/iamHimanshu-07/MindPulse",
     live: "http://mindpulseai.streamlit.app",
     image: "/images/mental-health.jpg",
   },
