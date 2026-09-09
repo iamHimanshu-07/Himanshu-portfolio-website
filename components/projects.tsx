@@ -12,7 +12,7 @@ const projects = [
       "A comprehensive fleet management system for transport businesses with live operations dashboard, vehicle dispatch, driver management, maintenance tracking, fuel/expense logging, and ROI analytics. Built with Express.js, SQLite, JWT auth, and vanilla HTML/CSS/JS — single binary, zero SaaS.",
     tags: ["Node.js", "Express", "SQLite", "JWT", "REST API", "HTML/CSS/JS"],
     github: "https://github.com/iamHimanshu-07/Vaelos",
-    live: "https://vaelos.up.railway.app",
+    live: "https://vaelos-x.vercel.app",
     image: "/images/transitops.png",
   },
   {
