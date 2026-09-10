@@ -1,12 +1,22 @@
 # Portfolio Website
 
 Personal portfolio for **Himanshu Singh Yadav** — AI/ML Engineer & Full-Stack Developer.
+This project is open-sourced to serve as a reference for other developers looking to build their own professional portfolio. Feel free to explore the project structure, component patterns, and deployment flow to kickstart your own site.
 
 Built with Next.js 16, React 19, TypeScript, Tailwind CSS 4, and shadcn/ui.
 
 🌐 **Live:** [[himanshusinghyadav7.vercel.app)](https://himanshusinghyadav7.vercel.app/)
 
 ---
+
+## 🚀 Using this as a Reference
+If you're using this as a template or reference:
+- **Customize Content:** Edit the components in `components/` to replace the information with your own.
+- **Setup Contact Form:** Create a free account at [Formspree](https://formspree.io) and add your `FORMSPREE_ID` to `.env.local`.
+- **Styling:** Adjust the theme and colors using Tailwind CSS in `app/globals.css`.
+
+---
+
 
 ## Local development
 
