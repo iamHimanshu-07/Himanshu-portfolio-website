@@ -75,3 +75,13 @@ Content lives entirely in the component files — edit a section's `.tsx` in `co
 ## License
 
 [MIT](LICENSE)
+
+---
+
+## Credits
+
+Himanshu Singh Yadav 
+
+AI & ML Engineer
+
+---
