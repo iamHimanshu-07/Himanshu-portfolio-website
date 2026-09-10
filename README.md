@@ -56,8 +56,6 @@ If `FORMSPREE_ID` is missing, the contact form handler fails loud at startup (by
 
 Pushed to `main` auto-deploys to Vercel. No extra config needed beyond the `FORMSPREE_ID` env var (set in the Vercel dashboard under Project Settings → Environment Variables).
 
-The Vercel project is the one linked to this GitHub repo; the canonical public URL is `himanshu-personal-portfolio.vercel.app`.
-
 ---
 
 ## Project structure
