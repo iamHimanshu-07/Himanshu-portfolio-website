@@ -23,6 +23,9 @@ If you're using this as a template or reference:
 Requires Node.js 18+ and pnpm (or npm/yarn).
 
 ```bash
+git clone https://github.com/HimanshuSinghYadav7/Portfolio-Website.git
+cd Portfolio-Website
+python -m venv .venv && source .venv/bin/activate   # or: .venv\Scripts\activate on Windows
 pnpm install
 pnpm dev
 ```
