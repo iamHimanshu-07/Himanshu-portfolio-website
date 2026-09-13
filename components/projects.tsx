@@ -11,7 +11,7 @@ const projects = [
     description:
       "A comprehensive fleet management system for transport businesses with live operations dashboard, vehicle dispatch, driver management, maintenance tracking, fuel/expense logging, and ROI analytics. Built with Express.js, SQLite, JWT auth, and vanilla HTML/CSS/JS — single binary, zero SaaS.",
     tags: ["Node.js", "Express", "SQLite", "JWT", "REST API", "HTML/CSS/JS"],
-    github: "https://github.com/iamHimanshu-07/Vaelos",
+    github: "https://github.com/HimanshuSinghYadav7/Vaelos",
     live: "https://vaelos-x.vercel.app",
     image: "/images/transitops.png",
   },
@@ -20,7 +20,7 @@ const projects = [
     description:
       "An intelligent web-based healthcare app that predicts heart disease risk by analyzing 11 medical parameters through ML classification. Built with Flask & SQLite, featuring a responsive dashboard, trained Scikit-Learn model, and real-time prediction results.",
     tags: ["Python", "Flask", "Scikit-Learn", "SQLite", "Bootstrap", "HTML"],
-    github: "https://github.com/iamHimanshu-07/CorAi",
+    github: "https://github.com/HimanshuSinghYadav7/CorAi",
     live: "https://corai.onrender.com",
     image: "/images/heart-disease.png",
   },
@@ -29,7 +29,7 @@ const projects = [
     description:
       "A professional, no-account crypto dashboard surfacing price, supply, and institutional-grade signals for 21 curated coins. Built with Next.js 16 and React 19, featuring real-time data feeds and high-performance charts.",
     tags: ["Next.js", "React", "TypeScript", "Tailwind CSS", "CoinGecko API"],
-    github: "https://github.com/iamHimanshu-07/Yugen",
+    github: "https://github.com/HimanshuSinghYadav7/Yugen",
     live: "https://yugen-x.vercel.app",
     image: "/images/yugen.png",
   },
@@ -38,7 +38,7 @@ const projects = [
     description:
       "An end-to-end NLP project for multi-label mental-health emotion detection from free-form text. Uses TF-IDF + OneVsRest RandomForest on the DepressionEmo dataset, served through an interactive Streamlit dashboard with per-emotion probability charts.",
     tags: ["Python", "NLP", "Scikit-Learn", "Streamlit", "TF-IDF", "RandomForest"],
-    github: "https://github.com/iamHimanshu-07/MindPulse",
+    github: "https://github.com/HimanshuSinghYadav7/MindPulse",
     live: "http://mindpulseai.streamlit.app",
     image: "/images/mental-health.jpg",
   },
@@ -47,7 +47,7 @@ const projects = [
     description:
       "A modern, AI-powered speech recognition web app with real-time voice-to-text conversion, multi-language support, live audio visualization, transcript download, and light/dark themes. Built with Next.js 16 and React 19.",
     tags: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Web Speech API"],
-    github: "https://github.com/iamHimanshu-07/VoiceFlow",
+    github: "https://github.com/HimanshuSinghYadav7/VoiceFlow",
     live: "https://voiceflow-x.vercel.app",
     image: "/images/speech-recognition.png",
   },
