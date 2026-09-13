@@ -46,7 +46,7 @@ export function Hero() {
 
             <div className="flex items-center gap-6 pt-4">
               <Link
-                href="https://github.com/iamHimanshu-07"
+                href="https://github.com/HimanshuSinghYadav7"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-primary transition-colors"
@@ -55,7 +55,7 @@ export function Hero() {
                 <span className="sr-only">GitHub</span>
               </Link>
               <Link
-                href="https://www.linkedin.com/in/himanshu-singh-yadav-57144a2b7"
+                href="https://www.linkedin.com/in/himanshusinghyadav"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-primary transition-colors"
@@ -64,7 +64,7 @@ export function Hero() {
                 <span className="sr-only">LinkedIn</span>
               </Link>
               <Link
-                href="https://x.com/iamhimanshu2312"
+                href="https://x.com/itshimanshu666"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-primary transition-colors"
@@ -73,7 +73,7 @@ export function Hero() {
                 <span className="sr-only">Twitter</span>
               </Link>
               <Link
-                href="https://www.facebook.com/share/1CN913PNi9/"
+                href="https://www.facebook.com/itshimanshu666"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-muted-foreground hover:text-primary transition-colors"
